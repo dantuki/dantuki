@@ -4,18 +4,19 @@
 
 # 👨‍💻 Daniel Bedoya Lopez
 
-### Full Stack Developer | Software Development Student | AI Enthusiast
+### Full Stack Developer | Estudiante de Desarrollo de Software | Entusiasta de la IA
 
 <p>
+
 <a href="https://github.com/dantuki">
 <img src="https://img.shields.io/badge/GitHub-Dantuki-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://img.shields.io/badge/Software%20Developer-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desarrollador%20Full%20Stack-00C853?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20Explorer-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explorador%20de%20IA-2196F3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Backend%20Lover-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Developer-FF9800?style=for-the-badge"/>
 
 </p>
 
@@ -23,70 +24,90 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre Mí
 
-💡 Passionate about technology, software development, artificial intelligence and automation.
+💡 Apasionado por la tecnología, el desarrollo de software, la inteligencia artificial y la automatización.
 
-🎓 Software Development Technology Student at Universidad Católica de Pereira.
+🎓 Estudiante de Tecnología en Desarrollo de Software en la Universidad Católica de Pereira.
 
-🔭 Currently working on academic, web and embedded systems projects.
+🔭 Actualmente desarrollando proyectos web, académicos, sistemas embebidos y soluciones basadas en datos.
 
-🌱 Constantly learning new technologies and software architectures.
+🌱 Aprendiendo constantemente nuevas tecnologías, arquitecturas de software y buenas prácticas de desarrollo.
 
-⚡ Interested in:
+⚡ Áreas de interés:
 
-* Full Stack Development
-* Artificial Intelligence
-* Backend Architecture
-* Database Design
-* Automation Systems
-* IoT & Embedded Development
-* Cloud Technologies
-* Software Engineering
+- Desarrollo Full Stack
+- Inteligencia Artificial
+- Arquitectura Backend
+- Diseño de Bases de Datos
+- Automatización
+- IoT y Sistemas Embebidos
+- Tecnologías Cloud
+- Ingeniería de Software
+- Desarrollo de APIs
+- Sistemas Distribuidos
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Stack Tecnológico
 
-## 💻 Programming Languages
+## 💻 Lenguajes de Programación
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python,php,html,css&theme=dark"/>
-</p>
 
-## ⚙️ Frontend Development
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark"/>
-</p>
+---
 
-## 🔥 Backend Development
+## 🎨 Desarrollo Frontend
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,html,css&theme=dark"/>
+
+</div>
+
+---
+
+## ⚙️ Desarrollo Backend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark"/>
-</p>
 
-## 🗄️ Databases
+</div>
 
-<p align="center">
+---
+
+## 🗄️ Bases de Datos
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-</p>
 
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-</p>
+</div>
 
-## ☁️ DevOps & Tools
+---
 
-<p align="center">
+## ☁️ DevOps y Herramientas
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark"/>
-</p>
 
-## 🤖 Embedded Systems & IoT
+</div>
 
-<p align="center">
+---
+
+## 🤖 Sistemas Embebidos e IoT
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
@@ -94,22 +115,37 @@
 
 <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🧰 Tecnologías y Herramientas Complementarias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adminer-34567C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Proyectos Destacados
 
 ## 🎓 SINFONI
 
-Academic management platform focused on:
+Sistema para la gestión de convocatorias académicas, movilidad, investigación y proyección social.
 
-* Calls for applications
-* Academic mobility
-* Research management
-* Social outreach
-
-### Technologies
+### Tecnologías
 
 React • Node.js • Express • MySQL
 
@@ -117,14 +153,9 @@ React • Node.js • Express • MySQL
 
 ## 🏫 COLECOL
 
-School management system focused on:
+Software de gestión escolar orientado a matrículas, administración académica y transformación digital.
 
-* Enrollment management
-* Student administration
-* Academic processes
-* Digital transformation
-
-### Technologies
+### Tecnologías
 
 JavaScript • MySQL • Docker • Adminer
 
@@ -132,23 +163,23 @@ JavaScript • MySQL • Docker • Adminer
 
 ## 🚗 UCP Parking Control
 
-Smart parking management system with real-time monitoring.
+Sistema inteligente para la gestión de parqueaderos con monitoreo en tiempo real utilizando ESP32.
 
-### Features
+### Funcionalidades
 
-* Real-time occupancy control
-* ESP32 integration
-* MongoDB database
-* Socket communication
-* Interactive dashboard
+- Control de ocupación en tiempo real
+- Integración con ESP32
+- Comunicación mediante Socket.io
+- Dashboard interactivo
+- Almacenamiento en MongoDB
 
-### Technologies
+### Tecnologías
 
 ESP32 • React • Node.js • MongoDB • Socket.io
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -158,6 +189,8 @@ ESP32 • React • Node.js • MongoDB • Socket.io
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=dantuki&theme=tokyonight&no-frame=true&margin-w=10"/>
@@ -166,7 +199,17 @@ ESP32 • React • Node.js • MongoDB • Socket.io
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 Racha de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dantuki&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Actividad de Contribuciones
 
 <div align="center">
 
@@ -176,43 +219,53 @@ ESP32 • React • Node.js • MongoDB • Socket.io
 
 ---
 
-# 🏆 Current Goals
+# 🏆 Objetivos Actuales
 
-🎯 Strengthen Full Stack skills
+🎯 Fortalecer mis habilidades Full Stack
 
-🎯 Deepen Artificial Intelligence knowledge
+🎯 Profundizar en Inteligencia Artificial
 
-🎯 Build scalable software architectures
+🎯 Diseñar arquitecturas de software escalables
 
-🎯 Contribute to Open Source projects
+🎯 Contribuir a proyectos Open Source
 
-🎯 Earn more GitHub Achievements
+🎯 Obtener más logros y reconocimientos en GitHub
+
+🎯 Construir soluciones tecnológicas con impacto real
 
 ---
 
-# 🌎 Connect With Me
+# 🌎 Conecta Conmigo
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/dantuki">
 <img src="https://img.shields.io/badge/GitHub-Dantuki-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Portafolio-Próximamente-00A8E8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://candidato.co.computrabajo.com/candidate/home?new_user=true">
+<img src="https://img.shields.io/badge/Computrabajo-Perfil-005BAC?style=for-the-badge"/>
 </a>
 
-</p>
+<a href="mailto:danielbedoyalopez5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/573189944100">
+<img src="https://img.shields.io/badge/WhatsApp-3189944100-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Building, Learning and Growing Every Day
+### 🚀 Construyendo, Aprendiendo y Creciendo Cada Día
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
 
