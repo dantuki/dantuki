@@ -54,10 +54,9 @@
 ## 💻 Lenguajes de Programación
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,cs,python,php,html,css&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python,php,html,css&theme=dark" alt="Skill Icons"/>
 </div>
+
 
 ---
 
