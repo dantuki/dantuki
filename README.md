@@ -1,262 +1,229 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Daniel%20Bedoya%20Lopez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Daniel%20Bedoya%20Lopez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
-# 👨‍💻 Daniel Bedoya Lopez
+<a href="https://github.com/dantuki">
+  <img src="https://img.shields.io/badge/GitHub-dantuki-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/danielbedoyadev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:danielbedoyalopez5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/573189944100">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-### Full Stack Developer | Estudiante de Desarrollo de Software | Entusiasta de la IA
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+solutions+with+code;Exploring+Artificial+Intelligence;Developing+Full+Stack+applications;Learning%2C+creating+and+innovating" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Development student at Universidad Católica de Pereira**, passionate about building technology solutions and exploring how software can solve real-world problems.
+
+My interests revolve around **Full Stack Development, Artificial Intelligence, Backend Engineering, Databases, Automation, and IoT**.
+
+I enjoy learning new technologies, designing software architectures, and turning ideas into functional projects. I'm particularly interested in AI-powered applications, system integration, and scalable software solutions.
+
+```yaml
+name: Daniel Bedoya López
+location: Colombia 🇨🇴
+education: Software Development - Universidad Católica de Pereira
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Backend Engineering
+  - APIs & Distributed Systems
+  - Databases & Data Management
+  - IoT & Automation
+currently_focused:
+  - AI Engineering
+  - RAG & Agentic Systems
+  - Software Architecture
+  - Building real-world projects
+```
+
+---
+
+## 🛠️ Technologies & Tools
+
+Technologies and tools I have worked with across academic, personal, and development projects.
+
+### Programming Languages
 
 <p>
-
-<a href="https://github.com/dantuki">
-<img src="https://img.shields.io/badge/GitHub-Dantuki-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://img.shields.io/badge/Desarrollador%20Full%20Stack-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Explorador%20de%20IA-2196F3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend%20Developer-FF9800?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cs,php,html,css" />
 </p>
 
-</div>
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+### Artificial Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+### DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+### IoT & Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Sobre Mí
+## 🚀 Featured Projects
 
-💡 Apasionado por la tecnología, el desarrollo de software, la inteligencia artificial y la automatización.
+Some of the projects I have developed or am currently working on.
 
-🎓 Estudiante de Tecnología en Desarrollo de Software en la Universidad Católica de Pereira.
+### 🤖 SentinelOps AI
 
-🔭 Actualmente desarrollando proyectos web, académicos, sistemas embebidos y soluciones basadas en datos.
+**AI-powered incident investigation platform**
 
-🌱 Aprendiendo constantemente nuevas tecnologías, arquitecturas de software y buenas prácticas de desarrollo.
+An AI Engineering project focused on helping developers investigate and understand software incidents through technical context, knowledge retrieval, and agent-based workflows.
 
-⚡ Áreas de interés:
+- Modular architecture with Next.js, Fastify, and FastAPI.
+- AI orchestration with Python and LangGraph.
+- Knowledge retrieval architecture with PostgreSQL and pgvector.
+- Designed around evidence-based investigation and controlled tool access.
 
-- Desarrollo Full Stack
-- Inteligencia Artificial
-- Arquitectura Backend
-- Diseño de Bases de Datos
-- Automatización
-- IoT y Sistemas Embebidos
-- Tecnologías Cloud
-- Ingeniería de Software
-- Desarrollo de APIs
-- Sistemas Distribuidos
-
----
-
-# 🛠️ Stack Tecnológico
-
-## 💻 Lenguajes de Programación
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python,php,html,css&theme=dark" alt="Skill Icons"/>
-</div>
-
-
----
-
-## 🎨 Desarrollo Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,html,css&theme=dark"/>
-
-</div>
-
----
-
-## ⚙️ Desarrollo Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark"/>
-
-</div>
-
----
-
-## 🗄️ Bases de Datos
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</div>
-
----
-
-## ☁️ DevOps y Herramientas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark"/>
-
-</div>
-
----
-
-## 🤖 Sistemas Embebidos e IoT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
-
-</div>
-
----
-
-## 🧰 Tecnologías y Herramientas Complementarias
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adminer-34567C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 Proyectos Destacados
-
-## 🎓 SINFONI
-
-Sistema para la gestión de convocatorias académicas, movilidad, investigación y proyección social.
-
-### Tecnologías
-
-React • Node.js • Express • MySQL
-
----
-
-## 🏫 COLECOL
-
-Software de gestión escolar orientado a matrículas, administración académica y transformación digital.
-
-### Tecnologías
-
-JavaScript • MySQL • Docker • Adminer
-
----
-
-## 🚗 UCP Parking Control
-
-Sistema inteligente para la gestión de parqueaderos con monitoreo en tiempo real utilizando ESP32.
-
-### Funcionalidades
-
-- Control de ocupación en tiempo real
-- Integración con ESP32
-- Comunicación mediante Socket.io
-- Dashboard interactivo
-- Almacenamiento en MongoDB
-
-### Tecnologías
-
-ESP32 • React • Node.js • MongoDB • Socket.io
-
----
-
-# 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantuki&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantuki&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dantuki&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dantuki&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Actividad de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dantuki&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Objetivos Actuales
-
-🎯 Fortalecer mis habilidades Full Stack
-
-🎯 Profundizar en Inteligencia Artificial
-
-🎯 Diseñar arquitecturas de software escalables
-
-🎯 Contribuir a proyectos Open Source
-
-🎯 Obtener más logros y reconocimientos en GitHub
-
-🎯 Construir soluciones tecnológicas con impacto real
-
----
-
-# 🌎 Conecta Conmigo
-
-<div align="center">
-
-<a href="https://github.com/dantuki">
-<img src="https://img.shields.io/badge/GitHub-Dantuki-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/dantuki/SENTINELOPS-AI">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portafolio-Próximamente-00A8E8?style=for-the-badge&logo=vercel&logoColor=white"/>
+### 📁 ArchiveX
+
+**Document management system**
+
+A web application project focused on document and information management, combining a modern frontend with backend services and database integration.
+
+- React and Vite frontend.
+- Node.js and Express backend.
+- MySQL database integration.
+- Real-time communication with Socket.IO.
+
+<a href="https://github.com/dantuki/proyecto-Archivex">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://candidato.co.computrabajo.com/candidate/home?new_user=true">
-<img src="https://img.shields.io/badge/Computrabajo-Perfil-005BAC?style=for-the-badge"/>
+### 🅿️ UCP Parking Control
+
+**Parking management project**
+
+A software project focused on developing a solution for parking control and management in an academic environment.
+
+<a href="https://github.com/dantuki/ucp-parking-control">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 📊 Smart Inventory
+
+**Inventory management with predictive analysis**
+
+A project exploring inventory management and the use of data analysis techniques to support better inventory-related decisions.
+
+<a href="https://github.com/dantuki/Gesti-n-de-Inventarios-con-An-lisis-Predictivo">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dantuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantuki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dantuki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dantuki&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | What I'm exploring |
+|---|---|
+| 🤖 AI Engineering | RAG, AI agents, LangGraph and LLM integration |
+| ⚙️ Backend | APIs, microservices and system integration |
+| 🗄️ Databases | PostgreSQL, pgvector and data management |
+| 🌐 Full Stack | Building complete web applications |
+| 🐳 DevOps | Docker, development environments and deployment |
+| 🔌 IoT | Embedded systems and hardware-software integration |
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities to learn and grow.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/danielbedoyadev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Bedoya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:danielbedoyalopez5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-danielbedoyalopez5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://wa.me/573189944100">
-<img src="https://img.shields.io/badge/WhatsApp-3189944100-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dantuki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -264,8 +231,9 @@ ESP32 • React • Node.js • MongoDB • Socket.io
 
 <div align="center">
 
-### 🚀 Construyendo, Aprendiendo y Creciendo Cada Día
+### 💡 "Great software is built through curiosity, continuous learning, and the courage to solve meaningful problems."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
+
