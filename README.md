@@ -133,20 +133,7 @@ An AI Engineering project focused on helping developers investigate and understa
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-### 📁 ArchiveX
 
-**Document management system**
-
-A web application project focused on document and information management, combining a modern frontend with backend services and database integration.
-
-- React and Vite frontend.
-- Node.js and Express backend.
-- MySQL database integration.
-- Real-time communication with Socket.IO.
-
-<a href="https://github.com/dantuki/proyecto-Archivex">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 ### 🅿️ UCP Parking Control
 
